@@ -9,3 +9,4 @@ module.exports = {
   transformIgnorePatterns: ["node_modules/(?!(jest-)?react-native)"],
   coveragePathIgnorePatterns: ["/node_modules/", "/jest"]
 };
+
